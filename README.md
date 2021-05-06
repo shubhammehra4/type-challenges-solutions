@@ -7,11 +7,10 @@ Collection of TypeScript type challenges<br>
 </p>
 
 <h4>Questions</h4>
-<p>
-  <a href="https://github.com/shubhammehra4/type-challenges"> Forked </a>
-  <br>
-  <a href ="https://github.com/type-challenges/type-challenges"> Original Repo</a>
-</p>
+<a href="https://github.com/shubhammehra4/type-challenges"> Forked </a>
+<br>
+<a href ="https://github.com/type-challenges/type-challenges"> Original Repo</a>
+
 <h4>
-   <a href="https://ghaiklor.github.io/type-challenges-solutions/en/">Explaination</a>
+   <a href="https://ghaiklor.github.io/type-challenges-solutions/en/">Solution Explanation</a>
 </h4>
